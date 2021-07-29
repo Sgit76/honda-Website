@@ -1,13 +1,21 @@
 /* fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
-/* body section */
+/* body section and utility */
 body{
     font-family: 'Poppins', sans-serif;
+}
+.custom-color-bg{
+    background-color: #E76F51;
+}
+.custom-color-text{
+    color: #E76F51;
 }
 /* header section */
 .header-custom-bg{
     background-color: #264653;
 }
-.custom-btn{
-    background-color: #E76F51;
+
+/* feature bike section */
+.grayscale {
+    filter: grayscale(100%);
 }
