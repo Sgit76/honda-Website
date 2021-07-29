@@ -16,6 +16,11 @@ body{
 }
 
 /* feature bike section */
-.grayscale {
+.grayscale{
     filter: grayscale(100%);
+}
+
+/*client section*/
+.fa-star{
+    color: #E76F51;
 }
